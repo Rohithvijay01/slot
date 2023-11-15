@@ -131,9 +131,9 @@ border="5" bgcolor="yellow">
 </table>
 </body>
 </html>
-
-## OUTPUT
+```
+### OUTPUT:
 ![Alt text](<Screenshot 2023-11-15 132117.png>)
 
-## RESULT
+## RESULT:
 The program for creating slot timetable using basic HTML tags is executed successfully.
