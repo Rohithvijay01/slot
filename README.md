@@ -35,52 +35,52 @@ Execute the program using runserver command.
 <body >
 <hr>
 <table align="center" width="500" cellspacing="2" cellpadding="4"
-border="5" bgcolor="purple">
-<caption><b>SLOT TIME TABLE - JEGATHEESWARI R(23013697)</b>
+border="5" bgcolor="yellow">
+<caption><b>SLOT TIME TABLE - ROHITH V(23012490)</b>
 </caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">Monday</th>
-<th bgcolor="yellow">Tuesday</th>
-<th bgcolor="yellow">Wednesday</th>
-<th bgcolor="yellow">Thursday</th>
-<th bgcolor="yellow">Friday</th>
+<th bgcolor="white">Day/Time</th>
+<th bgcolor="white">Monday</th>
+<th bgcolor="white">Tuesday</th>
+<th bgcolor="white">Wednesday</th>
+<th bgcolor="white">Thursday</th>
+<th bgcolor="white">Friday</th>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">8-10</th>
+<th bgcolor="white">8-10</th>
 <td>English</td>
 <td>English</td>
 <td>Web</td>
-<td>Softskills</td>
-<td>Python</td>
+<td></td>
+<td></td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">10-12</th>
+<th bgcolor="white">10-12</th>
 <td></td>
-<td>Python</td>
+<td>CAL</td>
 <td></td>
 <td>Web</td>
-<td></td>
+<td>CAL</td>
 
 </tr>
 <tr align="center">
-<th bgcolor="yellow">12-1</th>
+<th bgcolor="white">12-1</th>
 <td colspan="5">L U N C H</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">1-3</th>
-<td>Chemistry</td>
+<th bgcolor="white">1-3</th>
+<td>PHY</td>
 <td></td>
-<td>Chemistry</td>
-<td></td>
+<td>CA</td>
+<td>C-PROG</td>
 <td>Web</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">3-5</th>
+<th bgcolor="white">3-5</th>
 <td></td>
-<td></td>
-<td>Python</td>
-<td>Web</td>
+<td>SOFTSKILLS</td>
+<td>CA</td>
+<td>PHY</td>
 <td></td>
 </tr>
 </table>
@@ -96,35 +96,44 @@ border="5" bgcolor="purple">
 <tr>
 <td>1</td>
 <td>19AI414</td>
-<td>Fundamentals Of Web Development</td>
+<td>Fundamentals Of Web Development(Web)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>19AI301</td>
-<td>Python And Linear Algebra</td>
+<td>19MA201</td>
+<td>Calculus and matrix algebra(CAL)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>19EN101</td>
-<td>Communicate English</td>
+<td>Communicate English(eng)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>19CY205</td>
-<td>Principles Of Chemistry In Engineering</td>
+<td>19PH214</td>
+<td>Physics for quantum computing(Phy)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>19EY701</td>
 <td>Soft Skills</td>
 </tr>
+<tr>
+<td>6</td>
+<td>19CS305</td>
+<td>Computer Architecture(CA)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>19AI304</td>
+<td>C-Programming(C-Prog)</td>
+</tr>
 </table>
 </body>
 </html>
-```
 
 ## OUTPUT
-![Alt text](<Screenshot (20).png>)
+![Alt text](<Screenshot 2023-11-15 132117.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
